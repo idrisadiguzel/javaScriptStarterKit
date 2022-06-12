@@ -1,2 +1,2 @@
-# advancedJavaScript
-Starter kit for my JS Courses
+# JavaScript
+Starter kit for my medium.
